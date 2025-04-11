@@ -1,6 +1,3 @@
-Here's your **cleaned-up and corrected README.md** with the **right folder structure**:  
-
----
 
 # 🚀 **Responsive Landing Page in React.js**  
 
@@ -88,5 +85,3 @@ Go to 👉 `http://localhost:3000`
 This project is **free to use** and open-source.  
 
 ---
-
-🔥 **Bhai, ab ekdum clean and sorted README hai!** 🚀 Let me know if you need any edits. 😎
