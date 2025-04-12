@@ -6,7 +6,7 @@ const plans = [
   { name: "Basic", price: "$9.99" },
   { name: "Pro", price: "$19.99" },
   { name: "Enterprise", price: "$49.99" },
-  { name: "Enterprise", price: "$49.99" },
+  { name: "an", price: "$49.99" },
 ];
 
 const PricingTable = () => {
