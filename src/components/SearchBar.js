@@ -13,9 +13,9 @@ const SearchBar = () => {
     });
   }, []);
 
-  const handleSearch = debounce((e) => {
+  const handleSearch = (e) => {
     setSearchTerm(e.target.value);
-  }, 300);
+  }, 300;
 
   return (
     <div className="search-container">
